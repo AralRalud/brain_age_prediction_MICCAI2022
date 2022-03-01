@@ -1,1 +1,1 @@
-# brain_age_prediction_MICCAI2022
+# Mixup augmentation improves age regressionfrom brain MRI scans
