@@ -1,1 +1,1 @@
-# Mixup augmentation improves age regressionfrom brain MRI scans
+# Mixup augmentation improves brain age prediction from MRI scans
